@@ -1,4 +1,4 @@
-package workshop.tekla_gogua_1;
+package tekla_gogua_1;
 
 
 /**

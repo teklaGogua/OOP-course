@@ -1,4 +1,4 @@
-package workshop.tekla_gogua_1;
+package tekla_gogua_1;
 
 
 /**
@@ -6,8 +6,8 @@ package workshop.tekla_gogua_1;
  * Create classes A and B inside first and the second package accordingly
  * 1 point
 */
-import workshop.tekla_gogua_1.pen.A;
-import workshop.tekla_gogua_1.phone.B;
+import tekla_gogua_1.pen.A;
+import tekla_gogua_1.phone.B;
 
 public class Assignment02 {
     public static void main(String[] args) {

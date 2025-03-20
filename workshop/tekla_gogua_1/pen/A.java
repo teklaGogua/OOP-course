@@ -1,4 +1,4 @@
-package workshop.tekla_gogua_1.pen;
+package tekla_gogua_1.pen;
 
 
 public class A {

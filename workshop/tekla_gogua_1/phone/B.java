@@ -1,4 +1,4 @@
-package workshop.tekla_gogua_1.phone;
+package tekla_gogua_1.phone;
 
 
 public class B {
